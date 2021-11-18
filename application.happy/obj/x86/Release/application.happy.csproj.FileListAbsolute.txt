@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2010\Projects\application.happy\application.happy\bin\x86\Release\application.happy.dll
+c:\users\administrator\documents\visual studio 2010\Projects\application.happy\application.happy\bin\x86\Release\application.happy.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\application.happy\application.happy\obj\x86\Release\application.happy.dll
+c:\users\administrator\documents\visual studio 2010\Projects\application.happy\application.happy\obj\x86\Release\application.happy.pdb
+E:\Happy\application.happy\application.happy\bin\x86\Release\application.happy.dll
+E:\Happy\application.happy\application.happy\bin\x86\Release\application.happy.pdb
+E:\Happy\application.happy\application.happy\obj\x86\Release\application.happy.dll
+E:\Happy\application.happy\application.happy\obj\x86\Release\application.happy.pdb
